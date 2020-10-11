@@ -1,7 +1,7 @@
 {
-  "name": "Static Site Boilerplate",
-  "short_name": "Static Site Boilerplate",
-  "description": "A modern boilerplate for static website development",
+  "name": "Student Site Boilerplate",
+  "short_name": "Student Site Boilerplate",
+  "description": "A modern static site workflow for modern students of web development, simplified for easier learning.",
   "dir": "auto",
   "lang": "en-US",
   "display": "standalone",
